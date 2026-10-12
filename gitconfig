@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bestsamaille@users.noreply.github.com
+	name = Sami MARRAKCHI
